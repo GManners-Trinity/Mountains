@@ -51,7 +51,7 @@ def octavePerlin(x, y, z, octaves, persistence):
         maxValue += amplitude
         amplitude *= persistence
         frequency *= 2
-    
+
     return total / maxValue
 
 #The noise within the range ⟨−1, 1⟩.
@@ -63,7 +63,7 @@ def perlin(x, y, z):
         x = x % repeat;
         y = y % repeat;
         z = z % repeat;
-    
+
 
     #Calculate the “unit cube” that the point asked will be located in.
     #The left bound is (|_x_|, |_y_|, |_z_|) and the right bound is
@@ -154,18 +154,17 @@ def fade(t):
 
 def lerp(a, b, x):
     return a + x * (b - a);
-	
+
 def main():
-    f = open('heightmap.png', 'wb')      # binary mode is important
+    f = open('16bitheightmapoctave4.png', 'wb')      # binary mode is important
+    xpix, ypix = 512,512
+    w = png.Writer(xpix, ypix, greyscale=True,bitdepth=16)
 
-    xpix, ypix = 256, 256
-    w = png.Writer(xpix, ypix, greyscale=True)
+    noise = PerlinNoise(octaves=4, seed=777)
 
-    noise = PerlinNoise(octaves=2.5, seed=777)
-    
-    
+
     oldRange = 1 - -1
-    newRange = 255 - 0
+    newRange = 65535 - 0
 
     pic = [[0 for y in range(ypix)] for x in range(xpix)]
 
@@ -173,9 +172,10 @@ def main():
         for y in range(ypix):
             newValue = (noise([x/xpix, y/ypix]) - -1) * newRange / oldRange
             pic[x][y] = math.floor(newValue)
-    
-    #print(len(pic[0]))
-    #print(len(pic))
+        print(x)
+
+    print(len(pic[0]))
+    print(len(pic))
 
     w.write(f, pic)
     f.close()
