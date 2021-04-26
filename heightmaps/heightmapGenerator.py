@@ -156,8 +156,8 @@ def lerp(a, b, x):
     return a + x * (b - a);
 
 def main():
-    f = open('16bitheightmapoctave4.png', 'wb')      # binary mode is important
-    xpix, ypix = 512,512
+    f = open('16bit1024heightmap.png', 'wb')      # binary mode is important
+    xpix, ypix = 1024,1024
     w = png.Writer(xpix, ypix, greyscale=True,bitdepth=16)
 
     noise = PerlinNoise(octaves=4, seed=777)
