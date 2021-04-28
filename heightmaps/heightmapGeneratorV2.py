@@ -9,13 +9,15 @@ import matplotlib.pyplot as plt
 from perlin_noise import PerlinNoise
 import numpy as np
 import math
-f = open('goodLandscaoeTest5.png', 'wb')      # binary mode is important
-xpix, ypix = 512,512
+f = open('test.png', 'wb')      # binary mode is important
+xpix = 512
+ypix = xpix
+rseed = 200
 w = png.Writer(xpix, ypix, greyscale=True,bitdepth=16)
-noise1 = PerlinNoise(octaves=1.5,seed=200)
-noise2 = PerlinNoise(octaves=4,seed=200)
-noise3 = PerlinNoise(octaves=7,seed=200)
-noise4 = PerlinNoise(octaves=10,seed=200)
+noise1 = PerlinNoise(octaves=1.5,seed=rseed)
+noise2 = PerlinNoise(octaves=4,seed=rseed)
+noise3 = PerlinNoise(octaves=7,seed=rseed)
+noise4 = PerlinNoise(octaves=10,seed=rseed)
 
 #xpix, ypix = 100, 100
 pic = []
