@@ -156,24 +156,41 @@ def lerp(a, b, x):
     return a + x * (b - a);
 
 def main():
-    f = open('16bitheightmapoctave4.png', 'wb')      # binary mode is important
+    f = open('layeredtest.png', 'wb')      # binary mode is important
     xpix, ypix = 512,512
     w = png.Writer(xpix, ypix, greyscale=True,bitdepth=16)
 
-    noise = PerlinNoise(octaves=4, seed=777)
+    noise = PerlinNoise(octaves=2, seed=50)
 
 
     oldRange = 1 - -1
     newRange = 65535 - 0
 
     pic = [[0 for y in range(ypix)] for x in range(xpix)]
-
+    max=0
+    min=0
+    # for x in range(xpix):
+    #     for y in range(ypix):
+    #         newValue = (noise([x/xpix, y/ypix]) - -1) * newRange / oldRange
+    #         pic[x][y] = math.floor(newValue)
+    #         #print(math.floor(newValue))
+    #         if math.floor(newValue)>max:
+    #             max=math.floor(newValue)
+    #     #print(x)
+    # print(max)
+    noise2=PerlinNoise(octaves=8,seed=50)
     for x in range(xpix):
         for y in range(ypix):
-            newValue = (noise([x/xpix, y/ypix]) - -1) * newRange / oldRange
+            newValue = ((noise([x/xpix, y/ypix])+(noise2([x/xpix, y/ypix])*0.1)) - -0.9)* newRange / oldRange
             pic[x][y] = math.floor(newValue)
+            #print(math.floor(newValue))
+            if math.floor(newValue)>max:
+                max=math.floor(newValue)
+            if math.floor(newValue)<min:
+                min=math.floor(newValue)
         print(x)
-
+    print(max)
+    print(min)
     print(len(pic[0]))
     print(len(pic))
 
