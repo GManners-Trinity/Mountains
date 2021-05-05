@@ -1,0 +1,1649 @@
+﻿Log file open, 05/05/21 16:00:16
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Mountains
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.464672
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/D6rks/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.05-21.00.20:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.05-21.00.20:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:043][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.05-21.00.20:128][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.05-21.00.20:129][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.05-21.00.20:155][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.05-21.00.20:156][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.05-21.00.20:156][  0]LogHAL: Display: Platform has ~ 16 GB [17115414528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.05-21.00.20:157][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.05-21.00.20:160][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:160][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.05-21.00.20:160][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.05-21.00.20:161][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Scalability.ini]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.05-21.00.20:162][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.05-21.00.20:175][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.05-21.00.20:175][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.05-21.00.20:175][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.05-21.00.20:175][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Engine.ini]
+[2021.05.05-21.00.20:175][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Config/Windows/Editor.ini]
+[2021.05.05-21.00.20:196][  0]LogInit: Computer: DESKTOP-1KJ6LO4
+[2021.05.05-21.00.20:196][  0]LogInit: User: D6rks
+[2021.05.05-21.00.20:196][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.05-21.00.20:196][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.05-21.00.20:196][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.05-21.00.20:198][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.05-21.00.20:198][  0]LogMemory: Process Physical Memory: 137.40 MB used, 137.41 MB peak
+[2021.05.05-21.00.20:198][  0]LogMemory: Process Virtual Memory: 119.25 MB used, 119.25 MB peak
+[2021.05.05-21.00.20:198][  0]LogMemory: Physical Memory: 8296.16 MB used,  8026.37 MB free, 16322.53 MB total
+[2021.05.05-21.00.20:198][  0]LogMemory: Virtual Memory: 134212648.00 MB used,  5080.98 MB free, 134217728.00 MB total
+[2021.05.05-21.00.20:203][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.05-21.00.20:657][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.05-21.00.20:682][  0]LogInit: Using OS detected language (en-US).
+[2021.05.05-21.00.20:682][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.05-21.00.20:684][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.05-21.00.21:122][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.05-21.00.21:287][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.05-21.00.21:489][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.05-21.00.21:489][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.05-21.00.22:030][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.05-21.00.22:030][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.05-21.00.22:030][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.05-21.00.22:030][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.05-21.00.22:447][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.05.05-21.00.22:448][  0]LogD3D11RHI:       8079/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.05-21.00.22:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.05-21.00.22:453][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.05-21.00.22:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.05-21.00.22:481][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.05-21.00.22:481][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.05-21.00.22:481][  0]LogWindows: EnumDisplayDevices:
+[2021.05.05-21.00.22:481][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.05.05-21.00.22:481][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.05.05-21.00.22:482][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.05.05-21.00.22:482][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.05.05-21.00.22:482][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.05-21.00.22:482][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.05.05-21.00.22:482][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.05.05-21.00.22:482][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.05.05-21.00.22:483][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.05.05-21.00.22:562][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.05-21.00.22:564][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.05-21.00.22:564][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.05-21.00.22:963][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.05-21.00.22:986][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.05-21.00.23:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.05-21.00.23:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.05-21.00.23:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.05-21.00.23:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.05-21.00.23:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.05-21.00.23:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.05-21.00.23:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.05-21.00.23:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.05-21.00.23:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.05-21.00.23:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.05-21.00.23:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.05-21.00.23:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.05-21.00.23:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.05-21.00.23:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.05-21.00.24:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.05-21.00.24:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.05-21.00.24:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.05-21.00.24:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.05-21.00.24:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.05-21.00.24:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.05-21.00.24:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.05-21.00.24:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.05-21.00.24:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.05-21.00.24:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.05-21.00.24:217][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.05-21.00.24:719][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.05-21.00.24:737][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Intermediate/Shaders/WorkingDirectory/91972/).
+[2021.05.05-21.00.24:737][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/D6rks/AppData/Local/Temp/UnrealShaderWorkingDir/3A0DAA544169CEA08D306C87E76651E7/'.
+[2021.05.05-21.00.24:744][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.05-21.00.24:744][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.05-21.00.26:177][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.05-21.00.27:132][  0]LogDerivedDataCache: Loaded boot cache 0.95s 81MB C:/Users/D6rks/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.05-21.00.27:132][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/D6rks/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.05-21.00.27:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/School Documents - Keep/Spring 2021/Game AI/Mountains/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.05-21.00.27:132][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.05-21.00.27:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/School Documents - Keep/Spring 2021/Game AI/Mountains/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.05-21.00.27:133][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.05-21.00.27:165][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.05-21.00.27:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.05-21.00.27:165][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.05-21.00.27:193][  0]LogDerivedDataCache: Speed tests for C:/Users/D6rks/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.05.05-21.00.27:193][  0]LogDerivedDataCache: Display: Performance to C:/Users/D6rks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=145.36MBs, RandomWriteSpeed=117.75MBs. Assigned SpeedClass 'Local'
+[2021.05.05-21.00.27:193][  0]LogDerivedDataCache: Using Local data cache path C:/Users/D6rks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.05-21.00.27:194][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.05-21.00.27:194][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.05-21.00.27:319][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.05-21.00.27:389][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.05-21.00.27:828][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2021.05.05-21.00.31:916][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.05-21.00.31:916][  0]LogInit: Active device profile: [0000028E35793600][0000028E34AFA5C0 49] Windows
+[2021.05.05-21.00.31:916][  0]LogInit: Profiles: [0000028E35793600][0000028E34AFA5C0 49] Windows, [0000028E35758C00][0000028E34B08740 49] WindowsNoEditor, [0000028E35790C00][0000028E34B0C8C0 49] WindowsServer, [0000028E3575AE00][0000028E34B10A40 49] WindowsClient, [0000028E35792D00][0000028E34B14BC0 49] IOS, [0000028E35759500][0000028E34B18D40 49] iPadAir, [0000028E35791400][0000028E34B1CEC0 49] iPadAir2, [0000028E35720800][0000028E34B2B180 49] IPadPro, [0000028E35720900][0000028E34B211C0 49] iPadAir3, [0000028E35792700][0000028E34B35340 49] iPadAir4, [0000028E35723600][0000028E34B394C0 49] iPadMini2, [0000028E35791900][0000028E34B3D640 49] iPadMini3, [0000028E35721F00][0000028E34AFF780 49] iPadMini4, [0000028E35793B00][0000028E34B418C0 49] iPadMini5, [0000028E35758900][0000028E34B4DB40 49] iPhone6, [0000028E35759D00][0000028E34B45B80 49] iPodTouch6, [0000028E3570FE00][0000028E34B54180 49] iPhone7, [0000028E3570FF00][0000028E34B501C0 49] iPodTouch7, [0000028E35758500][0000028E34B58340 49] iPhone5S, [0000028E3570D100][0000028E34B5C4C0 49] iPhone6Plus, [0000028E35758300][0000028E34B60640 49] iPhone6S, [0000028E3570E800][0000028E34B647C0 49] iPhone6SPlus, [0000028E3575B900][0000028E34B68940 49] iPhone7Plus, [0000028E3570D900][0000028E34B6CAC0 49] iPhoneSE, [0000028E3575B400][0000028E34B70C40 49] iPhone8, [0000028E3570FD00][0000028E34B74DC0 49] iPhone8Plus, [0000028E3575BE00][0000028E34B78F40 49] iPhoneX, [0000028E3570CC00][0000028E34B7D0C0 49] iPhoneXS, [0000028E3575A800][0000028E34B81240 49] iPhoneXSMax, [0000028E3570D600][0000028E34B853C0 49] iPhoneXR, [0000028E3575A400][0000028E34B89540 49] iPhone11, [0000028E3570E700][0000028E34B8D6C0 49] iPhone11Pro, [0000028E35759F00][0000028E34B49800 49] iPhone11ProMax, [0000028E3570D800][0000028E34B91940 49] iPhoneSE2, [0000028E35758800][0000028E34B95A80 49] iPhone12Mini, [0000028E3570D300][0000028E34B9DC00 49] iPhone12, [0000028E35758700][0000028E34BA00C0 49] iPhone12Pro, [0000028E3570E200][0000028E34BA4240 49] iPhone12ProMax, [0000028E35758100][0000028E34BA83C0 49] iPadPro105, [0000028E3570CD00][0000028E34BAC540 49] iPadPro129, [0000028E35759300][0000028E34BB06C0 49] iPadPro97, [0000028E3570D000][0000028E34BB4840 49] iPadPro2_129, [0000028E3575BF00][0000028E34BB89C0 49] iPad5, [0000028E3570DB00][0000028E34BBCB40 49] iPad6, [0000028E35758D00][0000028E34BC0CC0 49] iPad7, [0000028E3570E600][0000028E34BC4E40 49] iPad8, [0000028E35758600][0000028E34BC8FC0 49] iPadPro11, [0000028E3570F300][0000028E34BCD140 49] iPadPro2_11, [0000028E35759000][0000028E35BE12C0 49] iPadPro3_129, [0000028E3570C700][0000028E35BE5440 49] iPadPro4_129, [0000028E35759A00][0000028E35BE95C0 49] AppleTV, [0000028E3570CF00][0000028E35BED740 49] AppleTV4K, [0000028E3575AD00][0000028E34B99880 49] TVOS, [0000028E3570F700][0000028E35BF19C0 49] Mac, [0000028E3575A300][0000028E35BF5B00 49] MacClient, [0000028E3570D200][0000028E35BF9C40 49] MacNoEditor, [0000028E3575B800][0000028E35C00100 49] MacServer, [0000028E3570F500][0000028E35C04280 49] Linux, [0000028E3575B600][0000028E35C08400 49] LinuxAArch64, [0000028E3570EC00][0000028E35C0C580 49] LinuxNoEditor, [0000028E3575B500][0000028E35C10700 49] LinuxAArch64NoEditor, [0000028E3570EF00][0000028E35C14880 49] LinuxClient, [0000028E3575BD00][0000028E35C18A00 49] LinuxAArch64Client, [0000028E35722200][0000028E35C1CB80 49] LinuxServer, [0000028E357D9000][0000028E35C20D00 49] LinuxAArch64Server, [0000028E35722C00][0000028E35C24E80 49] Android, [0000028E357D9500][0000028E35C29000 49] Android_Low, [0000028E35723A00][0000028E35C2D180 49] Android_Mid, [0000028E357D9600][0000028E35C31300 49] Android_High, [0000028E35722F00][0000028E35C35480 49] Android_Default, [0000028E357D8F00][0000028E35C39600 49] Android_Adreno4xx, [0000028E35721E00][0000028E35C3D780 49] Android_Adreno5xx_Low, [0000028E357D8100][0000028E35BFD8C0 49] Android_Adreno5xx, [0000028E35720A00][0000028E35C41A00 49] Android_Adreno6xx, [0000028E357D8B00][0000028E35C45B40 49] Android_Adreno6xx_Vulkan, [0000028E35721A00][0000028E35C49C80 49] Android_Mali_T6xx, [0000028E357D9C00][0000028E35C50140 49] Android_Mali_T7xx, [0000028E35721700][0000028E35C542C0 49] Android_Mali_T8xx, [0000028E357D8700][0000028E35C58440 49] Android_Mali_G71, [0000028E35721200][0000028E35C5C5C0 49] Android_Mali_G72, [0000028E357D9A00][0000028E35C60740 49] Android_Mali_G72_Vulkan, [0000028E35722600][0000028E35C648C0 49] Android_Mali_G76, [0000028E357D9900][0000028E35C68A40 49] Android_Mali_G76_Vulkan, [0000028E35720300][0000028E35C6CBC0 49] Android_Mali_G77, [0000028E357D9B00][0000028E35C70D40 49] Android_Mali_G77_Vulkan, [0000028E3575A100][0000028E35C74EC0 49] Android_Vulkan_SM5, [0000028E3570FA00][0000028E35C79040 49] Android_PowerVR_G6xxx, [0000028E3575BC00][0000028E35C7D1C0 49] Android_PowerVR_GT7xxx, [0000028E3570D700][0000028E35C81340 49] Android_PowerVR_GE8xxx, [0000028E3575AC00][0000028E35C854C0 49] Android_PowerVR_GM9xxx, [0000028E3570EE00][0000028E35C89640 49] Android_PowerVR_GM9xxx_Vulkan, [0000028E3575BA00][0000028E35C8D7C0 49] Android_TegraK1, [0000028E3570DD00][0000028E35C91940 49] Android_Unknown_Vulkan, [0000028E35759100][0000028E35C4DA80 49] Lumin, [0000028E3570D500][0000028E35C95BC0 49] Lumin_Desktop, [0000028E3575A200][0000028E35C99D00 49] HoloLens, 
+[2021.05.05-21.00.33:645][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.05-21.00.33:645][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.05-21.00.33:645][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.05-21.00.33:645][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.05-21.00.33:646][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.05-21.00.34:124][  0]LogNetVersion: Mountains 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2259589048)
+[2021.05.05-21.00.43:899][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.05-21.00.44:094][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.093928 seconds
+[2021.05.05-21.00.44:139][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.05-21.00.44:151][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.05-21.00.44:152][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.05-21.00.48:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.05-21.00.48:050][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.05-21.00.50:068][  0]SourceControl: Source control is disabled
+[2021.05.05-21.00.50:068][  0]SourceControl: Source control is disabled
+[2021.05.05-21.00.50:130][  0]SourceControl: Source control is disabled
+[2021.05.05-21.00.50:144][  0]SourceControl: Source control is disabled
+[2021.05.05-21.00.50:155][  0]SourceControl: Source control is disabled
+[2021.05.05-21.00.50:235][  0]LogUProjectInfo: Found projects:
+[2021.05.05-21.00.51:818][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.05-21.00.51:868][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.05-21.00.51:868][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.05-21.00.52:164][  0]LogCollectionManager: Loaded 0 collections in 0.000956 seconds
+[2021.05.05-21.00.52:287][  0]LogFileCache: Scanning file cache for directory 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/Collections/' took 0.01s
+[2021.05.05-21.00.52:287][  0]LogFileCache: Scanning file cache for directory 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/Developers/D6rks/Collections/' took 0.00s
+[2021.05.05-21.00.52:287][  0]LogFileCache: Scanning file cache for directory 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/Collections/' took 0.00s
+[2021.05.05-21.00.52:345][  0]LogOcInput: OculusInput pre-init called
+[2021.05.05-21.00.55:282][  0]LogEngine: Initializing Engine...
+[2021.05.05-21.00.55:327][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.05-21.00.55:336][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.05-21.00.55:427][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.007 s
+[2021.05.05-21.00.55:776][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.05-21.00.56:329][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.05-21.00.57:883][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.05-21.00.57:935][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.05-21.00.57:935][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-21.00.57:955][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-21.00.57:960][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-21.00.57:973][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-21.00.57:974][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-21.01.02:090][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-21.01.02:090][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-21.01.02:257][  0]LogAudioMixer: Display: Using Audio Device Sennheiser (Realtek(R) Audio)
+[2021.05.05-21.01.02:276][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-21.01.02:288][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-21.01.02:288][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-21.01.02:291][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-21.01.02:291][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-21.01.02:291][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-21.01.02:291][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-21.01.02:291][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-21.01.02:291][  0]LogInit: FAudioDevice initialized.
+[2021.05.05-21.01.02:292][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.05-21.01.02:307][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.05-21.01.08:970][  0]LogDerivedDataCache: Saved boot cache 6.66s 81MB C:/Users/D6rks/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.05-21.01.08:982][  0]LogInit: Texture streaming: Enabled
+[2021.05.05-21.01.09:088][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.05-21.01.09:353][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.05-21.01.09:378][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.05-21.01.09:914][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.05-21.01.10:130][  0]LogInit: Transaction tracking system initialized
+[2021.05.05-21.01.10:347][  0]BlueprintLog: New page: Editor Load
+[2021.05.05-21.01.11:272][  0]LocalizationService: Localization service is disabled
+[2021.05.05-21.01.11:663][  0]TimingProfiler: Initialize
+[2021.05.05-21.01.11:665][  0]TimingProfiler: OnSessionChanged
+[2021.05.05-21.01.11:665][  0]LoadingProfiler: Initialize
+[2021.05.05-21.01.11:679][  0]LoadingProfiler: OnSessionChanged
+[2021.05.05-21.01.11:680][  0]NetworkingProfiler: Initialize
+[2021.05.05-21.01.11:680][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.05-21.01.11:680][  0]MemoryProfiler: Initialize
+[2021.05.05-21.01.11:680][  0]MemoryProfiler: OnSessionChanged
+[2021.05.05-21.01.14:218][  0]LogFileCache: Scanning file cache for directory 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/' took 0.02s
+[2021.05.05-21.01.14:218][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.05-21.01.14:218][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.05-21.01.16:315][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.05-21.01.16:446][  0]SourceControl: Source control is disabled
+[2021.05.05-21.01.16:460][  0]LogUnrealEdMisc: Loading editor; pre map load, took 75.502
+[2021.05.05-21.01.16:511][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.05-21.01.16:538][  0]LightingResults: New page: Lighting Build
+[2021.05.05-21.01.16:707][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.01.16:809][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.01.16:914][  0]MapCheck: New page: Map Check
+[2021.05.05-21.01.16:914][  0]LightingResults: New page: Lighting Build
+[2021.05.05-21.01.17:652][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.89ms
+[2021.05.05-21.01.18:520][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.05-21.01.18:575][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.05.05-21.01.18:593][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.05.05-21.01.19:901][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.05-21.01.20:069][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.05-21.01.20:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.05-21.01.20:120][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.567ms to complete.
+[2021.05.05-21.01.20:120][  0]LogFileHelpers: Loading map 'Template_Default' took 3.637
+[2021.05.05-21.01.22:251][  0]LogUnrealEdMisc: Total Editor Startup Time, took 81.294
+[2021.05.05-21.01.23:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.01.23:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.01.23:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.01.23:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.01.23:630][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3601 classes and 859 folders.
+[2021.05.05-21.01.23:793][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.05-21.01.23:865][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.05-21.01.23:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.05-21.01.23:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000192
+[2021.05.05-21.01.23:889][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.05-21.01.23:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.05-21.01.23:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000195
+[2021.05.05-21.01.23:906][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.05-21.01.23:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.05-21.01.23:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2021.05.05-21.01.23:909][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.05-21.01.23:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.05-21.01.23:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000201
+[2021.05.05-21.01.23:924][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.05-21.01.23:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.05-21.01.23:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000204
+[2021.05.05-21.01.23:932][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.05-21.01.23:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.05-21.01.23:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000208
+[2021.05.05-21.01.23:942][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.05-21.01.23:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.05-21.01.23:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000212
+[2021.05.05-21.01.23:948][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.05-21.01.23:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.05-21.01.23:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000215
+[2021.05.05-21.01.23:958][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.05-21.01.23:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.05-21.01.23:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000219
+[2021.05.05-21.01.23:969][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.05-21.01.23:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.05-21.01.23:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000221
+[2021.05.05-21.01.23:972][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.05-21.01.23:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.05-21.01.23:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000223
+[2021.05.05-21.01.23:973][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.05-21.01.23:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.05-21.01.23:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000225
+[2021.05.05-21.01.23:981][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.05-21.01.23:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.05-21.01.23:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000228
+[2021.05.05-21.01.23:995][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.05-21.01.23:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.23:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.05-21.01.23:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000231
+[2021.05.05-21.01.24:005][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.05-21.01.24:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.05-21.01.24:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000235
+[2021.05.05-21.01.24:014][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.05-21.01.24:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.05-21.01.24:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000238
+[2021.05.05-21.01.24:018][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.05-21.01.24:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.05-21.01.24:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000241
+[2021.05.05-21.01.24:024][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.05-21.01.24:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.05-21.01.24:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000246
+[2021.05.05-21.01.24:067][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.05-21.01.24:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.05-21.01.24:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000250
+[2021.05.05-21.01.24:074][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.05-21.01.24:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.05-21.01.24:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000254
+[2021.05.05-21.01.24:085][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.05-21.01.24:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.05-21.01.24:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000258
+[2021.05.05-21.01.24:096][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.05-21.01.24:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.05-21.01.24:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000261
+[2021.05.05-21.01.24:112][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.05-21.01.24:112][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:112][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.05-21.01.24:112][  0]LogPakFile: OnPakFileMounted2Time == 0.000266
+[2021.05.05-21.01.24:129][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.05-21.01.24:130][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.05-21.01.24:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000270
+[2021.05.05-21.01.24:142][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.05-21.01.24:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.05-21.01.24:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000273
+[2021.05.05-21.01.24:153][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.05-21.01.24:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.05-21.01.24:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.05-21.01.24:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000277
+[2021.05.05-21.01.24:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.05-21.01.24:676][  0]LogSlate: Took 0.000650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.05-21.01.24:701][  0]LogSlate: Took 0.010541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.05-21.01.24:824][  0]LogSlate: Took 0.010415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.05-21.01.25:500][  0]LogRenderer: Reallocating scene render targets to support 1516x964 Format 10 NumSamples 1 (Frame:1).
+[2021.05.05-21.01.34:763][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.05-21.01.34:763][  0]LogLoad: (Engine Initialization) Total time: 93.81 seconds
+[2021.05.05-21.01.34:763][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.05-21.01.34:768][  0]LogInit: First time updating LLM stats...
+[2021.05.05-21.01.35:511][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.05-21.01.36:068][  2]LogAssetRegistry: Asset discovery search completed in 68.2412 seconds
+[2021.05.05-21.01.36:130][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014422 seconds (updated 0 objects)
+[2021.05.05-21.01.36:360][  2]LogSlate: Took 0.006939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.05-21.01.47:133][991]LogTexture: Display: Building textures: T_Electric_Pole_BC (AutoDXT, 1024X4096)
+[2021.05.05-21.01.47:133][991]LogTexture: Display: Building textures: T_Plastic_Pole_01_BC (AutoDXT, 256X1024)
+[2021.05.05-21.01.47:133][991]LogTexture: Display: Building textures: T_Electric_Pole_RMO (AutoDXT, 1024X4096)
+[2021.05.05-21.01.47:133][991]LogTexture: Display: Building textures: T_Plastic_Pole_01_RM (AutoDXT, 256X1024)
+[2021.05.05-21.01.47:133][991]LogMaterial: Display: Missing cached shader map for material M_Cable, compiling. 
+[2021.05.05-21.01.48:069][991]LogTexture: Display: Building textures: T_Plastic_Pole_01_N (BC5, 256X1024)
+[2021.05.05-21.01.48:069][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.05-21.01.48:069][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.05-21.01.48:069][991]LogTexture: Display: Building textures: T_Electric_Pole_N (BC5, 1024X4096)
+[2021.05.05-21.01.48:069][991]LogMaterial: Display: Missing cached shader map for material M_Basic_Master, compiling. 
+[2021.05.05-21.01.48:106][991]LogMaterial: Display: Missing cached shader map for material M_Basic_Master, compiling. 
+[2021.05.05-21.01.48:449][991]LogStaticMesh: Building static mesh SM_Electric_Pole_03...
+[2021.05.05-21.01.48:449][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.48:532][991]LogStaticMesh: Built static mesh [0.42s] /Game/AutomotiveWinterScene/CustomAssets/Electric_Pole/SM_Electric_Pole_03.SM_Electric_Pole_03
+[2021.05.05-21.01.48:614][991]LogStaticMesh: Building static mesh SM_Electric_Pole_02...
+[2021.05.05-21.01.48:614][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.48:616][991]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Electric_Pole/SM_Electric_Pole_02.SM_Electric_Pole_02
+[2021.05.05-21.01.50:225][991]LogStaticMesh: Building static mesh SM_Electric_Pole_01...
+[2021.05.05-21.01.50:225][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.50:239][991]LogStaticMesh: Built static mesh [0.93s] /Game/AutomotiveWinterScene/CustomAssets/Electric_Pole/SM_Electric_Pole_01.SM_Electric_Pole_01
+[2021.05.05-21.01.50:438][991]LogStaticMesh: Building static mesh SM_Skydome_Clouds...
+[2021.05.05-21.01.50:438][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.50:482][991]LogStaticMesh: Built static mesh [0.04s] /Game/AutomotiveWinterScene/CustomAssets/Sky/SM_Skydome_Clouds.SM_Skydome_Clouds
+[2021.05.05-21.01.51:672][991]LogTexture: Display: Building textures: T_HDRI_Sky_HDRI (RGBA16F, 4096X1024)
+[2021.05.05-21.01.51:672][991]LogTexture: Display: Building textures: T_Water_N (BC5, 1024X1024)
+[2021.05.05-21.01.51:672][991]LogMaterial: Display: Missing cached shader map for material M_Sky_Back, compiling. 
+[2021.05.05-21.01.52:607][991]LogStaticMesh: Building static mesh SM_Skydome...
+[2021.05.05-21.01.52:607][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.52:656][991]LogStaticMesh: Built static mesh [0.97s] /Game/AutomotiveWinterScene/CustomAssets/Sky/SM_Skydome.SM_Skydome
+[2021.05.05-21.01.54:348][991]LogMaterial: Display: Missing cached shader map for material M_Sky_Front, compiling. 
+[2021.05.05-21.01.55:668][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2021.05.05-21.01.55:668][991]LogStaticMesh: Building static mesh SM_EnviroDome...
+[2021.05.05-21.01.55:668][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.55:686][991]LogStaticMesh: Built static mesh [1.19s] /Game/AutomotiveWinterScene/HDRI/SM_EnviroDome.SM_EnviroDome
+[2021.05.05-21.01.56:639][991]LogMaterial: Display: Missing cached shader map for material M_HDRI_Projection, compiling. 
+[2021.05.05-21.01.56:855][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2021.05.05-21.01.56:855][991]LogMaterial: Display: Missing cached shader map for material M_HDRI_Projection, compiling. 
+[2021.05.05-21.01.56:868][991]LogMaterial: Display: Missing cached shader map for material M_HDRI_Projection, compiling. 
+[2021.05.05-21.01.56:894][991]LogMaterial: Display: Missing cached shader map for material M_Basic_Master_Subsurface, compiling. 
+[2021.05.05-21.01.57:204][991]LogMaterial: Display: Missing cached shader map for material M_Basic_Master_Subsurface, compiling. 
+[2021.05.05-21.01.57:216][991]LogStaticMesh: Building static mesh SM_Plastic_Pole_01...
+[2021.05.05-21.01.57:216][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.57:217][991]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Plastic_Pole/SM_Plastic_Pole_01.SM_Plastic_Pole_01
+[2021.05.05-21.01.58:240][991]LogTexture: Display: Building textures: T_Road_Marker_RMO (AutoDXT, 1024X1024)
+[2021.05.05-21.01.58:241][991]LogTexture: Display: Building textures: T_Road_Marker_BC (AutoDXT, 1024X1024)
+[2021.05.05-21.01.58:241][991]LogTexture: Display: Building textures: T_Road_Marker_N (BC5, 1024X1024)
+[2021.05.05-21.01.58:241][991]LogStaticMesh: Building static mesh SM_Road_Marker...
+[2021.05.05-21.01.58:241][991]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.01.58:241][991]LogStaticMesh: Built static mesh [0.10s] /Game/AutomotiveWinterScene/CustomAssets/Road_Marker/SM_Road_Marker.SM_Road_Marker
+[2021.05.05-21.01.58:305][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.05-21.01.58:359][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2021.05.05-21.02.00:031][991]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2021.05.05-21.02.01:016][991]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 140
+[2021.05.05-21.02.01:649][991]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.05-21.02.02:972][117]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2021.05.05-21.02.03:901][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.05-21.02.03:923][210]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.05-21.02.05:008][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 120
+[2021.05.05-21.02.05:008][210]LogTexture: Display: Building textures: T_Snow_A (AutoDXT, 1024X1024)
+[2021.05.05-21.02.05:008][210]LogTexture: Display: Building textures: T_Seagull_BC (AutoDXT, 1024X1024)
+[2021.05.05-21.02.05:008][210]LogTexture: Display: Building textures: T_Bush_N (BC5, 4096X4096)
+[2021.05.05-21.02.05:008][210]LogTexture: Display: Building textures: T_Bush_R (AutoDXT, 4096X4096)
+[2021.05.05-21.02.05:008][210]LogMaterial: Display: Missing cached shader map for material M_Snow, compiling. 
+[2021.05.05-21.02.05:111][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Slow, compiling. 
+[2021.05.05-21.02.05:149][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Fast, compiling. 
+[2021.05.05-21.02.05:216][210]LogMaterial: Display: Missing cached shader map for material M_Seagull, compiling. 
+[2021.05.05-21.02.05:264][210]LogStaticMesh: Building static mesh SM_Bush_Medium_01...
+[2021.05.05-21.02.05:603][210]LogTexture: Display: Building textures: T_Bush_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.02.06:204][210]LogStaticMesh: Built static mesh [0.94s] /Game/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Medium_01.SM_Bush_Medium_01
+[2021.05.05-21.02.07:337][210]LogTexture: Display: Building textures: T_Stone_Wall_RMO (AutoDXT, 8192X8192)
+[2021.05.05-21.02.07:337][210]LogStaticMesh: Building static mesh SM_Bush_Large_02...
+[2021.05.05-21.02.08:809][210]LogStaticMesh: Built static mesh [1.47s] /Game/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_02.SM_Bush_Large_02
+[2021.05.05-21.02.16:054][210]LogTexture: Display: Building textures: T_Stone_Wall_N (BC5, 8192X8192)
+[2021.05.05-21.02.16:054][210]LogTexture: Display: Building textures: T_Stone_Wall_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.02.16:054][210]LogTexture: Display: Building textures: T_CleanSnow_N (BC5, 4096X4096)
+[2021.05.05-21.02.19:199][210]LogTexture: Display: Building textures: T_Boulders_02_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.02.19:199][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 457
+[2021.05.05-21.02.23:310][210]LogTexture: Display: Building textures: T_CleanSnow_BC (BC7, 4096X4096)
+[2021.05.05-21.02.36:096][210]LogTexture: Display: Building textures: T_Boulders_02_N (BC5, 4096X4096)
+[2021.05.05-21.02.36:096][210]LogTexture: Display: Building textures: T_Boulders_02_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.02.36:404][210]LogTexture: Display: Building textures: T_Boulders_01_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.02.36:404][210]LogMaterial: Display: Missing cached shader map for material M_Vegetation, compiling. 
+[2021.05.05-21.02.36:519][210]LogStaticMesh: Building static mesh SM_Bush_Large_01...
+[2021.05.05-21.02.37:970][210]LogStaticMesh: Built static mesh [1.48s] /Game/AutomotiveWinterScene/CustomAssets/Vegetation/SM_Bush_Large_01.SM_Bush_Large_01
+[2021.05.05-21.02.38:096][210]LogStaticMesh: Building static mesh SM_Stone_Wall_Small_02...
+[2021.05.05-21.02.38:249][210]LogStaticMesh: Built static mesh [0.15s] /Game/AutomotiveWinterScene/CustomAssets/Stone_Wall/SM_Stone_Wall_Small_02.SM_Stone_Wall_Small_02
+[2021.05.05-21.02.38:314][210]LogStaticMesh: Building static mesh SM_Stone_Wall_Small_01...
+[2021.05.05-21.02.38:474][210]LogStaticMesh: Built static mesh [0.16s] /Game/AutomotiveWinterScene/CustomAssets/Stone_Wall/SM_Stone_Wall_Small_01.SM_Stone_Wall_Small_01
+[2021.05.05-21.03.57:420][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 471
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 461
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Boulders_01_N (BC5, 4096X4096)
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Boulders_01_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_04_RMA (AutoDXT, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 451
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_04_N (BC5, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 441
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_04_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 431
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_03_N (BC5, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 421
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_02_RMA (AutoDXT, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 411
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 401
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Background_02_N (BC5, 8192X8192)
+[2021.05.05-21.03.57:500][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 391
+[2021.05.05-21.03.57:500][210]LogTexture: Display: Building textures: T_Road_01_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.04.39:023][210]LogTexture: Display: Building textures: T_Background_02_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.04.39:096][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 381
+[2021.05.05-21.04.39:096][210]LogTexture: Display: Building textures: T_Background_01_RMA (AutoDXT, 8192X8192)
+[2021.05.05-21.04.39:096][210]LogTexture: Display: Building textures: T_Background_01_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.04.39:096][210]LogTexture: Display: Building textures: T_Background_01_N (BC5, 8192X8192)
+[2021.05.05-21.04.39:096][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 371
+[2021.05.05-21.04.39:096][210]LogTexture: Display: Building textures: T_Rock_Assembly_02_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.04.41:184][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 361
+[2021.05.05-21.04.41:184][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 351
+[2021.05.05-21.04.43:893][210]LogTexture: Display: Building textures: T_Road_01_TRO (AutoDXT, 8192X8192)
+[2021.05.05-21.06.00:473][210]LogTexture: Display: Building textures: T_Rock_Assembly_02_N (BC5, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Rock_Assembly_02_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Quarry_Outcrop_01_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Quarry_Outcrop_01_N (BC5, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Quarry_Outcrop_01_BC (BC7, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Outcrop_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 341
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Outcrop_N (BC5, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Outcrop_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogTexture: Display: Building textures: T_Ice_Cliff_03_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.06.00:474][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 331
+[2021.05.05-21.06.03:778][210]LogTexture: Display: Building textures: T_Ice_Cliff_03_N (BC5, 4096X4096)
+[2021.05.05-21.06.03:778][210]LogTexture: Display: Building textures: T_Road_01_N (BC5, 8192X8192)
+[2021.05.05-21.06.13:179][210]LogTexture: Display: Building textures: T_Ice_Cliff_03_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.06.13:179][210]LogTexture: Display: Building textures: T_Ice_Cliff_02_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.06.13:179][210]LogTexture: Display: Building textures: T_Ice_Cliff_02_N (BC5, 4096X4096)
+[2021.05.05-21.06.13:179][210]LogTexture: Display: Building textures: T_Ice_Cliff_02_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.06.14:731][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.06.15:139][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.06.15:254][210]LogStaticMesh: Building static mesh SM_Stone_Wall_Long_01...
+[2021.05.05-21.06.18:214][210]LogStaticMesh: Built static mesh [2.97s] /Game/AutomotiveWinterScene/CustomAssets/Stone_Wall/SM_Stone_Wall_Long_01.SM_Stone_Wall_Long_01
+[2021.05.05-21.06.18:535][210]LogStaticMesh: Building static mesh SM_House_04...
+[2021.05.05-21.06.18:537][210]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Houses/SM_House_04.SM_House_04
+[2021.05.05-21.06.18:538][210]LogStaticMesh: Building static mesh SM_House_03...
+[2021.05.05-21.06.18:540][210]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Houses/SM_House_03.SM_House_03
+[2021.05.05-21.06.18:541][210]LogStaticMesh: Building static mesh SM_House_02...
+[2021.05.05-21.06.18:542][210]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Houses/SM_House_02.SM_House_02
+[2021.05.05-21.06.18:544][210]LogStaticMesh: Building static mesh SM_House_01...
+[2021.05.05-21.06.18:546][210]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Houses/SM_House_01.SM_House_01
+[2021.05.05-21.06.18:550][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.06.18:578][210]LogStaticMesh: Building static mesh SM_Boulder_02...
+[2021.05.05-21.06.19:180][210]LogTexture: Display: Building textures: T_Ice_Cliff_01_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.06.20:298][210]LogStaticMesh: Built static mesh [1.72s] /Game/AutomotiveWinterScene/CustomAssets/Boulder_02/SM_Boulder_02.SM_Boulder_02
+[2021.05.05-21.06.21:613][210]LogStaticMesh: Building static mesh SM_Boulder_01...
+[2021.05.05-21.06.22:611][210]LogStaticMesh: Built static mesh [1.00s] /Game/AutomotiveWinterScene/CustomAssets/Boulder_01/SM_Boulder_01.SM_Boulder_01
+[2021.05.05-21.06.22:641][210]LogStaticMesh: Building static mesh SM_Boat...
+[2021.05.05-21.06.22:654][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/CustomAssets/Boat/SM_Boat.SM_Boat
+[2021.05.05-21.06.23:539][210]LogTexture: Display: Building textures: T_Rock_N (BC5, 4096X4096)
+[2021.05.05-21.06.26:330][210]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.06.26:337][210]LogStaticMesh: Building static mesh SM_Background_04...
+[2021.05.05-21.06.27:778][210]LogStaticMesh: Built static mesh [1.44s] /Game/AutomotiveWinterScene/CustomAssets/Background/SM_Background_04.SM_Background_04
+[2021.05.05-21.06.30:304][210]LogTexture: Display: Building textures: T_Background_03_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Ice_Cliff_01_N (BC5, 8192X8192)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Ice_Cliff_01_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Background_03_RMA (AutoDXT, 8192X8192)
+[2021.05.05-21.08.00:460][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 507
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Rock_HRO (AutoDXT, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Rock_BC (BC7, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 497
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Pebbles_N (BC5, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Pebbles_HRO (AutoDXT, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Pebbles_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_CleanSnow_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_WindSweep (AutoDXT, 512X512)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Masks (AutoDXT, 2048X2048)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_flowmap (BGRA8, 2048X2048)
+[2021.05.05-21.08.00:460][210]LogTexture: Display: Building textures: T_Houses_RMO (AutoDXT, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 487
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Houses_N (BC5, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 477
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Houses_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 467
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Boat_RMO (AutoDXT, 2048X2048)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Boat_N (BC5, 2048X2048)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Boat_BC (AutoDXT, 2048X2048)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Wake_N (BC5, 1024X1024)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Rock_Assembly_03_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Rock_Assembly_03_N (BC5, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogTexture: Display: Building textures: T_Rock_Assembly_03_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.08.32:682][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 457
+[2021.05.05-21.08.32:683][210]LogStaticMesh: Building static mesh SM_Background_03...
+[2021.05.05-21.08.33:614][210]LogTexture: Display: Building textures: T_Rock_Assembly_01_TRO (AutoDXT, 8192X8192)
+[2021.05.05-21.08.33:669][210]LogStaticMesh: Built static mesh [0.99s] /Game/AutomotiveWinterScene/CustomAssets/Background/SM_Background_03.SM_Background_03
+[2021.05.05-21.08.33:974][210]LogStaticMesh: Building static mesh SM_Background_02...
+[2021.05.05-21.08.35:539][210]LogStaticMesh: Built static mesh [1.56s] /Game/AutomotiveWinterScene/CustomAssets/Background/SM_Background_02.SM_Background_02
+[2021.05.05-21.08.35:909][210]LogStaticMesh: Building static mesh SM_Background_01...
+[2021.05.05-21.08.37:053][210]LogTexture: Display: Building textures: T_Rock_Assembly_01_N (BC5, 8192X8192)
+[2021.05.05-21.08.37:487][210]LogStaticMesh: Built static mesh [1.58s] /Game/AutomotiveWinterScene/CustomAssets/Background/SM_Background_01.SM_Background_01
+[2021.05.05-21.08.38:049][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 447
+[2021.05.05-21.08.38:049][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.08.38:095][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.08.38:169][210]LogMaterial: Display: Missing cached shader map for material M_Ice_Master, compiling. 
+[2021.05.05-21.08.38:203][210]LogMaterial: Display: Missing cached shader map for material M_Ice_Master, compiling. 
+[2021.05.05-21.08.38:365][210]LogMaterial: Display: Missing cached shader map for material M_Water_Master, compiling. 
+[2021.05.05-21.08.38:446][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.08.38:470][210]LogMaterial: Display: Missing cached shader map for material M_Wind_Master, compiling. 
+[2021.05.05-21.08.38:502][210]LogMaterial: Display: Missing cached shader map for material M_Wind_Master, compiling. 
+[2021.05.05-21.08.38:534][210]LogMaterial: Display: Missing cached shader map for material M_Basic_Master_Subsurface, compiling. 
+[2021.05.05-21.08.38:565][210]LogMaterial: Display: Missing cached shader map for material M_Wake, compiling. 
+[2021.05.05-21.08.38:853][210]LogStaticMesh: Building static mesh SM_Guardrail_01...
+[2021.05.05-21.08.41:222][210]LogStaticMesh: Built static mesh [2.37s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Guardrail_01/SM_Guardrail_01.SM_Guardrail_01
+[2021.05.05-21.08.41:949][210]LogTexture: Display: Building textures: T_Rock_Assembly_01_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.08.41:949][210]LogTexture: Display: Building textures: T_Guardrail_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.09.00:686][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 755
+[2021.05.05-21.09.00:686][210]LogTexture: Display: Building textures: T_Road_01_Wet_TRD (AutoDXT, 8192X8192)
+[2021.05.05-21.09.00:686][210]LogTexture: Display: Building textures: T_Road_01_Wet_N (BC5, 8192X8192)
+[2021.05.05-21.09.01:416][210]LogTexture: Display: Building textures: T_Guardrail_RMO (AutoDXT, 4096X4096)
+[2021.05.05-21.09.12:733][210]LogTexture: Display: Building textures: T_Guardrail_N (BC5, 4096X4096)
+[2021.05.05-21.09.15:512][210]LogTexture: Display: Building textures: T_Road_01_Wet_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.09.15:524][210]LogStaticMesh: Building static mesh SM_Rock_Assembly_03...
+[2021.05.05-21.09.16:779][210]LogStaticMesh: Built static mesh [1.26s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_03/SM_Rock_Assembly_03.SM_Rock_Assembly_03
+[2021.05.05-21.09.16:805][210]LogStaticMesh: Building static mesh SM_Rock_Assembly_02...
+[2021.05.05-21.09.16:968][210]LogStaticMesh: Built static mesh [0.16s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_02/SM_Rock_Assembly_02.SM_Rock_Assembly_02
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 745
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 735
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 725
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 715
+[2021.05.05-21.10.06:313][210]LogTexture: Display: Building textures: T_Quarry_Cliff_03_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 705
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 695
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 685
+[2021.05.05-21.10.06:313][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 675
+[2021.05.05-21.10.06:313][210]LogTexture: Display: Building textures: T_Quarry_Cliff_03_N (BC5, 4096X4096)
+[2021.05.05-21.10.06:313][210]LogStaticMesh: Building static mesh SM_Rock_Assembly_01...
+[2021.05.05-21.10.07:310][210]LogStaticMesh: Built static mesh [1.11s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Rock_Assembly_01/SM_Rock_Assembly_01.SM_Rock_Assembly_01
+[2021.05.05-21.10.07:338][210]LogStaticMesh: Building static mesh SM_Road_02...
+[2021.05.05-21.10.08:386][210]LogStaticMesh: Built static mesh [1.05s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Road_02/SM_Road_02.SM_Road_02
+[2021.05.05-21.10.17:984][210]LogTexture: Display: Building textures: T_Quarry_Cliff_03_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.10.17:984][210]LogTexture: Display: Building textures: T_Quarry_Cliff_02_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.10.17:984][210]LogTexture: Display: Building textures: T_Quarry_Cliff_02_N (BC5, 4096X4096)
+[2021.05.05-21.10.17:984][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 665
+[2021.05.05-21.10.17:984][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 655
+[2021.05.05-21.10.17:984][210]LogMaterial: Display: Missing cached shader map for material M_Road_Master, compiling. 
+[2021.05.05-21.10.18:013][210]LogStaticMesh: Building static mesh SM_Road_01...
+[2021.05.05-21.10.18:982][210]LogTexture: Display: Building textures: T_Quarry_Cliff_02_BC (BC7, 4096X4096)
+[2021.05.05-21.10.20:940][210]LogStaticMesh: Built static mesh [2.93s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Road_01/SM_Road_01.SM_Road_01
+[2021.05.05-21.10.21:314][210]LogTexture: Display: Building textures: T_Quarry_Cliff_01_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.10.21:314][210]LogStaticMesh: Building static mesh SM_Quarry_Outcrop_01...
+[2021.05.05-21.10.23:370][210]LogStaticMesh: Built static mesh [2.06s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Quarry_Outcrop_01/SM_Quarry_Outcrop_01.SM_Quarry_Outcrop_01
+[2021.05.05-21.11.24:798][210]LogTexture: Display: Building textures: T_Quarry_Cliff_01_N (BC5, 4096X4096)
+[2021.05.05-21.11.24:798][210]LogTexture: Display: Building textures: T_Quarry_Cliff_01_BC (BC7, 4096X4096)
+[2021.05.05-21.11.24:798][210]LogTexture: Display: Building textures: T_LUT (BGRA8, 256X16)
+[2021.05.05-21.11.24:798][210]LogTexture: Display: Building textures: T_Roadside_01_BC (AutoDXT, 8192X8192)
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 703
+[2021.05.05-21.11.24:799][210]LogTexture: Display: Building textures: T_Roadside_01_TRO (AutoDXT, 8192X8192)
+[2021.05.05-21.11.24:799][210]LogTexture: Display: Building textures: T_Roadside_01_N (BC5, 8192X8192)
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 693
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 683
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 673
+[2021.05.05-21.11.24:799][210]LogTexture: Display: Building textures: T_Snow_Chunks_N (BC5, 4096X4096)
+[2021.05.05-21.11.24:799][210]LogTexture: Display: Building textures: T_Roadside_02_TRO (AutoDXT, 4096X4096)
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 663
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 653
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 643
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 633
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 623
+[2021.05.05-21.11.24:799][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 613
+[2021.05.05-21.11.24:799][210]LogStaticMesh: Building static mesh SM_Quarry_Cliff_03...
+[2021.05.05-21.11.25:659][210]LogTexture: Display: Building textures: T_Roadside_02_N (BC5, 4096X4096)
+[2021.05.05-21.11.25:924][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 603
+[2021.05.05-21.11.29:452][210]LogTexture: Display: Building textures: T_Roadside_02_BC (AutoDXT, 4096X4096)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 128X128)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.05.05-21.11.31:999][210]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 128X128)
+[2021.05.05-21.11.32:000][210]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 128X128)
+[2021.05.05-21.11.32:050][210]LogTexture: Display: Building textures: T_Fence_01_N (BC5, 4096X4096)
+[2021.05.05-21.11.34:361][210]LogTexture: Display: Building textures: T_Fence_01_RMO (AutoDXT, 1024X1024)
+[2021.05.05-21.11.34:361][210]LogTexture: Display: Building textures: T_Fence_01_BC (AutoDXT, 1024X1024)
+[2021.05.05-21.11.34:424][210]LogStaticMesh: Built static mesh [9.62s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Quarry_Cliff_03/SM_Quarry_Cliff_03.SM_Quarry_Cliff_03
+[2021.05.05-21.11.34:608][210]LogStaticMesh: Building static mesh SM_Quarry_Cliff_02...
+[2021.05.05-21.11.36:909][210]LogStaticMesh: Built static mesh [2.30s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Quarry_Cliff_02/SM_Quarry_Cliff_02.SM_Quarry_Cliff_02
+[2021.05.05-21.11.36:971][210]LogStaticMesh: Building static mesh SM_Quarry_Cliff_01...
+[2021.05.05-21.11.38:678][210]LogStaticMesh: Built static mesh [1.71s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Quarry_Cliff_01/SM_Quarry_Cliff_01.SM_Quarry_Cliff_01
+[2021.05.05-21.11.38:722][210]LogStaticMesh: Building static mesh SM_Outcrop_01...
+[2021.05.05-21.11.42:202][210]LogStaticMesh: Built static mesh [3.48s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Outcrop_01/SM_Outcrop_01.SM_Outcrop_01
+[2021.05.05-21.11.42:299][210]LogStaticMesh: Building static mesh SM_Ice_Cliff_03_IceOnly...
+[2021.05.05-21.11.43:862][210]LogStaticMesh: Built static mesh [1.56s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Ice_Cliff_03/SM_Ice_Cliff_03_IceOnly.SM_Ice_Cliff_03_IceOnly
+[2021.05.05-21.11.43:916][210]LogStaticMesh: Building static mesh SM_Ice_Cliff_03...
+[2021.05.05-21.11.46:515][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 593
+[2021.05.05-21.11.46:546][210]LogStaticMesh: Built static mesh [2.63s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Ice_Cliff_03/SM_Ice_Cliff_03.SM_Ice_Cliff_03
+[2021.05.05-21.11.46:604][210]LogStaticMesh: Building static mesh SM_Ice_Cliff_02...
+[2021.05.05-21.11.46:775][210]LogStaticMesh: Built static mesh [0.17s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Ice_Cliff_02/SM_Ice_Cliff_02.SM_Ice_Cliff_02
+[2021.05.05-21.11.46:825][210]LogStaticMesh: Building static mesh SM_Ice_Cliff_01...
+[2021.05.05-21.11.50:120][210]LogStaticMesh: Built static mesh [3.30s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Ice_Cliff_01/SM_Ice_Cliff_01.SM_Ice_Cliff_01
+[2021.05.05-21.11.50:193][210]LogStaticMesh: Building static mesh SM_Wind_01...
+[2021.05.05-21.11.50:202][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/FX/Wind/SM_Wind_01.SM_Wind_01
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 583
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 573
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 563
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 553
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 543
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 533
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 523
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 513
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 503
+[2021.05.05-21.12.21:111][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 493
+[2021.05.05-21.12.21:111][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Master, compiling. 
+[2021.05.05-21.12.21:320][210]LogStaticMesh: Building static mesh SM_Roadside_01...
+[2021.05.05-21.12.21:455][210]LogStaticMesh: Built static mesh [0.14s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_01/SM_Roadside_01.SM_Roadside_01
+[2021.05.05-21.12.21:487][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_06...
+[2021.05.05-21.12.21:492][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_06.SM_Snow_Chunk_06
+[2021.05.05-21.12.21:526][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_05...
+[2021.05.05-21.12.21:548][210]LogStaticMesh: Built static mesh [0.02s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_05.SM_Snow_Chunk_05
+[2021.05.05-21.12.21:605][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_07...
+[2021.05.05-21.12.21:609][210]LogStaticMesh: Built static mesh [0.00s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_07.SM_Snow_Chunk_07
+[2021.05.05-21.12.21:612][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_04...
+[2021.05.05-21.12.21:618][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_04.SM_Snow_Chunk_04
+[2021.05.05-21.12.21:619][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_03...
+[2021.05.05-21.12.21:624][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_03.SM_Snow_Chunk_03
+[2021.05.05-21.12.21:643][210]LogMaterial: Display: Missing cached shader map for material M_Snow_Chunks_Master, compiling. 
+[2021.05.05-21.12.21:661][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_01...
+[2021.05.05-21.12.21:676][210]LogStaticMesh: Built static mesh [0.02s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_01.SM_Snow_Chunk_01
+[2021.05.05-21.12.21:679][210]LogStaticMesh: Building static mesh SM_Snow_Chunk_02...
+[2021.05.05-21.12.21:684][210]LogStaticMesh: Built static mesh [0.01s] /Game/AutomotiveWinterScene/CustomAssets/Snow_Chunks/SM_Snow_Chunk_02.SM_Snow_Chunk_02
+[2021.05.05-21.12.21:687][210]LogStaticMesh: Building static mesh SM_Roadside_02...
+[2021.05.05-21.12.22:784][210]LogStaticMesh: Built static mesh [1.10s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Roadside_02/SM_Roadside_02.SM_Roadside_02
+[2021.05.05-21.12.22:823][210]LogStaticMesh: Building static mesh SM_Fence_01...
+[2021.05.05-21.12.22:931][210]LogStaticMesh: Built static mesh [0.11s] /Game/AutomotiveWinterScene/Megascans/3D_Assets/Fence_01/SM_Fence_01.SM_Fence_01
+[2021.05.05-21.12.25:240][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 565
+[2021.05.05-21.12.26:303][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:326][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:342][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:359][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:378][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:393][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:412][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.26:427][210]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.12.28:172][210]LogMeshUtilities: Finished distance field build in 126.9s - 128x128x61 distance field, 25470 triangles, Range [-0.1, 1.0], SM_Road_01
+[2021.05.05-21.12.29:215][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 779
+[2021.05.05-21.12.29:215][210]Cmd: r.RayTracing.Landscape 1
+[2021.05.05-21.12.30:073][210]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AutomotiveWinterScene/Maps/IceRoad.IceRoad
+[2021.05.05-21.12.30:750][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 769
+[2021.05.05-21.12.30:751][210]Cmd: MAP LOAD FILE="E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Maps/IceRoad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.05-21.12.30:807][210]LightingResults: New page: Lighting Build
+[2021.05.05-21.12.30:859][210]LoadErrors: New page: Loading map: IceRoad.umap
+[2021.05.05-21.12.31:135][210]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.05-21.12.31:235][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-21.12.31:235][210]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-21.12.31:600][210]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.12.31:742][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.12.31:922][210]MapCheck: New page: Map Check
+[2021.05.05-21.12.31:934][210]LightingResults: New page: Lighting Build
+[2021.05.05-21.12.32:992][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 759
+[2021.05.05-21.12.32:992][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-21.12.33:491][210]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.05.05-21.12.33:838][210]LogAudio: Display: Audio Device (ID: 1) registered with world 'IceRoad'.
+[2021.05.05-21.12.35:102][210]Cmd: r.RayTracing.Landscape 1
+[2021.05.05-21.12.35:103][210]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/AutomotiveWinterScene/Maps/IceRoad_Lighting) is flushing async loading
+[2021.05.05-21.12.35:103][210]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.05-21.12.36:246][210]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.05-21.12.36:255][210]LogAIModule: Creating AISystem for world IceRoad
+[2021.05.05-21.12.38:494][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.05-21.12.38:948][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 749
+[2021.05.05-21.12.38:982][210]MapCheck: Repaired painted vertex colors in 0.1s for 21 components in /Game/AutomotiveWinterScene/Maps/IceRoad.  Resave map to fix. 
+[2021.05.05-21.12.38:985][210]MapCheck: Warning: Spent 0.1s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2021.05.05-21.12.39:058][210]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.05-21.12.39:064][210]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2.765ms to complete.
+[2021.05.05-21.12.39:440][210]LogFileHelpers: Loading map 'IceRoad' took 8.780
+[2021.05.05-21.12.41:235][210]LogSlate: Took 0.039133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.05-21.12.42:722][213]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 739
+[2021.05.05-21.12.45:639][249]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 729
+[2021.05.05-21.12.49:683][381]LogMeshUtilities: Finished distance field build in 21.6s - 128x47x100 distance field, 29964 triangles, Range [-0.1, 0.6], SM_Ice_Cliff_01
+[2021.05.05-21.12.51:848][493]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 719
+[2021.05.05-21.12.52:986][555]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 709
+[2021.05.05-21.12.55:180][673]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 699
+[2021.05.05-21.12.56:760][760]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 689
+[2021.05.05-21.12.59:606][915]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 679
+[2021.05.05-21.13.00:419][959]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 669
+[2021.05.05-21.13.02:303][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 659
+[2021.05.05-21.13.03:514][131]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 649
+[2021.05.05-21.13.06:676][305]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 639
+[2021.05.05-21.13.06:676][305]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 629
+[2021.05.05-21.13.10:472][509]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 619
+[2021.05.05-21.13.10:723][523]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 609
+[2021.05.05-21.13.13:433][670]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 599
+[2021.05.05-21.13.13:617][680]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 589
+[2021.05.05-21.13.16:883][861]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 579
+[2021.05.05-21.13.17:042][870]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 569
+[2021.05.05-21.13.20:463][ 57]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 559
+[2021.05.05-21.13.20:968][ 85]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 549
+[2021.05.05-21.13.25:347][282]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 539
+[2021.05.05-21.13.25:391][285]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 529
+[2021.05.05-21.13.28:903][402]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 519
+[2021.05.05-21.13.28:991][402]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 509
+[2021.05.05-21.13.32:881][601]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 499
+[2021.05.05-21.13.33:291][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 489
+[2021.05.05-21.13.37:458][857]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 479
+[2021.05.05-21.13.38:023][889]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 469
+[2021.05.05-21.13.45:454][300]LogSlate: Window 'Message Log' being destroyed
+[2021.05.05-21.13.45:464][300]LogSlate: Window 'Message Log' being destroyed
+[2021.05.05-21.13.47:186][315]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 459
+[2021.05.05-21.13.50:613][330]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 449
+[2021.05.05-21.13.50:613][330]LogEditorViewport: Clicking on Actor (context menu): BP_Global_Parameter_Controller_C (BP_Global_Parameter_Controller)
+[2021.05.05-21.13.52:275][330]LogEditorViewport: Clicking on Actor (context menu): BP_Global_Parameter_Controller_C (BP_Global_Parameter_Controller)
+[2021.05.05-21.13.57:466][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 439
+[2021.05.05-21.14.01:025][939]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 429
+[2021.05.05-21.14.01:966][977]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.05.05-21.14.11:236][827]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0172 seconds. Added 2 classes and 0 folders.
+[2021.05.05-21.14.14:335][827]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 419
+[2021.05.05-21.14.14:335][827]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 409
+[2021.05.05-21.14.14:335][827]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 399
+[2021.05.05-21.14.16:434][829]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 389
+[2021.05.05-21.14.17:465][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 379
+[2021.05.05-21.14.19:731][ 20]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 369
+[2021.05.05-21.14.22:248][100]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 359
+[2021.05.05-21.14.22:665][104]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 349
+[2021.05.05-21.14.25:065][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 339
+[2021.05.05-21.14.25:473][237]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 329
+[2021.05.05-21.14.28:907][461]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 319
+[2021.05.05-21.14.29:471][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 309
+[2021.05.05-21.14.31:268][597]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape7)
+[2021.05.05-21.14.31:989][625]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.05.05-21.14.32:537][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 299
+[2021.05.05-21.14.32:719][668]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 289
+[2021.05.05-21.14.35:159][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 279
+[2021.05.05-21.14.35:851][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 269
+[2021.05.05-21.14.37:948][200]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 259
+[2021.05.05-21.14.38:924][311]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 249
+[2021.05.05-21.14.40:779][474]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.05.05-21.14.41:755][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 239
+[2021.05.05-21.14.42:451][626]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 229
+[2021.05.05-21.14.45:503][973]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 219
+[2021.05.05-21.14.46:154][ 51]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 209
+[2021.05.05-21.14.46:668][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.05-21.14.48:989][230]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 199
+[2021.05.05-21.14.49:719][269]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 189
+[2021.05.05-21.14.52:332][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 179
+[2021.05.05-21.14.53:667][519]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 169
+[2021.05.05-21.14.55:326][612]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 159
+[2021.05.05-21.14.56:772][696]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2021.05.05-21.14.58:170][774]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 149
+[2021.05.05-21.14.59:559][852]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 139
+[2021.05.05-21.15.01:390][957]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 129
+[2021.05.05-21.15.02:177][994]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.05-21.15.02:419][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-21.15.02:442][994]PIE: New page: PIE session: IceRoad (May 5, 2021, 11:15:02 AM)
+[2021.05.05-21.15.02:540][994]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.05-21.15.02:584][994]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.05-21.15.02:616][994]LogPlayLevel: Creating play world package: /Game/AutomotiveWinterScene/Maps/UEDPIE_0_IceRoad
+[2021.05.05-21.15.03:375][994]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 119
+[2021.05.05-21.15.03:388][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.759004s)
+[2021.05.05-21.15.03:399][994]LogAIModule: Creating AISystem for world IceRoad
+[2021.05.05-21.15.03:434][994]LogPlayLevel: PIE: World Init took: (0.046016s)
+[2021.05.05-21.15.03:434][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AutomotiveWinterScene/Maps/IceRoad.IceRoad to /Game/AutomotiveWinterScene/Maps/UEDPIE_0_IceRoad.IceRoad (0.828304s)
+[2021.05.05-21.15.03:468][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.05-21.15.03:517][994]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-21.15.03:569][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-21.15.03:576][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-21.15.03:599][994]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-21.15.03:599][994]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-21.15.03:621][994]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-21.15.03:621][994]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-21.15.03:644][994]LogAudioMixer: Display: Using Audio Device Sennheiser (Realtek(R) Audio)
+[2021.05.05-21.15.03:684][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-21.15.03:684][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-21.15.03:697][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-21.15.03:704][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-21.15.03:705][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-21.15.03:705][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-21.15.03:706][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-21.15.03:706][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-21.15.03:706][994]LogInit: FAudioDevice initialized.
+[2021.05.05-21.15.03:706][994]LogAudio: Display: Audio Device (ID: 2) registered with world 'IceRoad'.
+[2021.05.05-21.15.03:912][994]LogLoad: Game class is 'GameModeBase'
+[2021.05.05-21.15.04:162][994]LogWorld: Bringing World /Game/AutomotiveWinterScene/Maps/UEDPIE_0_IceRoad.IceRoad up for play (max tick rate 0) at 2021.05.05-16.15.04
+[2021.05.05-21.15.04:196][994]LogWorld: Bringing up level for play took: 0.080149
+[2021.05.05-21.15.04:227][994]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.05.05-21.15.04:380][994]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 20 classes and 0 folders.
+[2021.05.05-21.15.04:539][994]PIE: Server logged in
+[2021.05.05-21.15.04:547][994]PIE: Play in editor total start time 2.223 seconds.
+[2021.05.05-21.15.04:833][995]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2021.05.05-21.15.05:535][ 19]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 99
+[2021.05.05-21.15.09:297][264]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 89
+[2021.05.05-21.15.10:394][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 79
+[2021.05.05-21.15.12:976][497]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2021.05.05-21.15.13:773][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.15.13:773][541]LogWorld: BeginTearingDown for /Game/AutomotiveWinterScene/Maps/UEDPIE_0_IceRoad
+[2021.05.05-21.15.13:806][541]LogWorld: UWorld::CleanupWorld for IceRoad, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.15.13:840][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.15.13:910][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-21.15.13:927][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.15.13:966][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-21.15.14:007][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-21.15.14:008][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-21.15.14:081][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-21.15.14:201][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.05-21.15.14:275][542]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.05.05-21.15.14:306][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.05-21.15.14:947][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2021.05.05-21.15.17:950][711]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2021.05.05-21.15.18:007][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.05.05-21.15.20:797][943]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.05.05-21.15.20:940][951]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.05.05-21.15.23:463][100]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.05-21.15.24:290][148]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.05.05-21.15.24:490][159]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.05.05-21.15.24:548][162]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.05.05-21.15.25:075][193]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.05.05-21.15.26:810][258]LogStaticMesh: Allocated 128x128x161 distance field atlas = 5.0Mb, with 2 objects containing 3.1Mb backing data
+[2021.05.05-21.16.14:965][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.05-21.16.21:200][642]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GavTestBed.GavTestBed
+[2021.05.05-21.16.21:200][642]Cmd: MAP LOAD FILE="E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/Maps/GavTestBed.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.05-21.16.21:200][642]LightingResults: New page: Lighting Build
+[2021.05.05-21.16.21:200][642]LoadErrors: New page: Loading map: GavTestBed.umap
+[2021.05.05-21.16.21:236][642]LogWorld: UWorld::CleanupWorld for IceRoad, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.16.21:236][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.16.21:237][642]LogWorld: UWorld::CleanupWorld for IceRoad_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.16.21:237][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.16.21:237][642]MapCheck: New page: Map Check
+[2021.05.05-21.16.21:237][642]LightingResults: New page: Lighting Build
+[2021.05.05-21.16.21:255][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-21.16.23:752][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.05.05-21.16.28:359][642]LogAudio: Display: Audio Device (ID: 1) registered with world 'GavTestBed'.
+[2021.05.05-21.16.40:688][642]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.05-21.16.40:688][642]LogAIModule: Creating AISystem for world GavTestBed
+[2021.05.05-21.16.40:736][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.05-21.16.40:743][642]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.05-21.16.40:744][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2021.05.05-21.16.40:744][642]LogFileHelpers: Loading map 'GavTestBed' took 19.543
+[2021.05.05-21.16.40:828][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.05-21.16.51:560][930]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-21.16.52:151][930]Cmd: r.RayTracing.Landscape 1
+[2021.05.05-21.16.52:215][930]LogObjectTools: Deleting 2 worlds: /Game/AutomotiveWinterScene/Maps/IceRoad.IceRoad, /Game/AutomotiveWinterScene/Maps/IceRoad_Lighting.IceRoad_Lighting
+[2021.05.05-21.16.52:215][930]LogObjectTools: Currently 2 active worlds: /Game/Maps/GavTestBed.GavTestBed, /Engine/Transient.World_0
+[2021.05.05-21.16.52:236][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.05-21.17.09:432][930]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.05-21.17.09:471][930]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/AutomotiveWinterScene/Maps/Snow_sharedassets/DO_NOT_USE_LayerInfo.DO_NOT_USE_LayerInfo
+	Asset Name: /Game/AutomotiveWinterScene/Maps/Snow_sharedassets/Pebbles_LayerInfo.Pebbles_LayerInfo
+	Asset Name: /Game/AutomotiveWinterScene/Maps/Snow_sharedassets/Rock_LayerInfo.Rock_LayerInfo
+	Asset Name: /Game/AutomotiveWinterScene/Maps/Snow_sharedassets/Snow_LayerInfo.Snow_LayerInfo
+	Asset Name: /Game/AutomotiveWinterScene/Maps/IceRoad.IceRoad
+	Asset Name: /Game/AutomotiveWinterScene/Maps/IceRoad_Lighting.IceRoad_Lighting
+[2021.05.05-21.18.11:496][930]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.18.11:517][930]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.05.05-21.18.11:517][930]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.05.05-21.18.31:509][930]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.05.05-21.18.31:511][930]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.05.05-21.18.32:493][930]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.05.05-21.18.32:686][930]LogWorld: UWorld::CleanupWorld for IceRoad, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.18.32:689][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.18.32:694][930]LogWorld: UWorld::CleanupWorld for IceRoad_Lighting, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-21.18.32:694][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-21.18.32:881][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.05-21.18.33:046][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.05-21.18.33:132][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.05-21.18.34:654][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.05-21.18.34:848][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.05-21.18.34:857][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.05-21.18.34:865][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.05-21.18.34:871][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.05.05-21.20.12:406][620]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.20.12:423][621]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.05.05-21.20.12:435][621]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.20.12:436][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.05.05-21.20.12:473][623]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.20.12:540][625]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.20.12:615][629]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.20.16:727][672]Cmd: r.RayTracing.Landscape 1
+[2021.05.05-21.20.17:225][694]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2021.05.05-21.20.17:225][694]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.05.05-21.20.19:750][861]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.05.05-21.20.20:915][  1]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.05.05-21.20.22:728][ 60]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.05.05-21.20.22:728][ 60]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.05.05-21.20.54:482][ 88]LogSlate: Took 0.149754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.05-21.21.47:625][277]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.21.47:632][277]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.05.05-21.21.47:644][277]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.21.47:646][277]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.05.05-21.21.47:674][278]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.21.48:733][279]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.21.51:600][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.05.05-21.21.51:600][326]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.05.05-21.22.04:283][845]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.05.05-21.22.04:289][845]LogSlate: Window 'Reference Viewer' being destroyed
+[2021.05.05-21.22.39:330][ 13]LogTexture: Display: Building textures: T_Road_Extra_BC (AutoDXT, 2048X8192)
+[2021.05.05-21.22.39:330][ 13]LogTexture: Display: Building textures: T_Road_Extra_N (BC5, 2048X8192)
+[2021.05.05-21.22.39:330][ 13]LogTexture: Display: Building textures: T_Road_Extra_TRD (AutoDXT, 2048X8192)
+[2021.05.05-21.22.39:340][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.05-21.23.04:323][ 13]LogSlate: Window 'Replace References?' being destroyed
+[2021.05.05-21.23.04:328][ 13]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with T_Background_01_BC; and then delete them.
+
+Are you sure?
+[2021.05.05-21.23.04:328][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.05-21.23.04:773][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:821][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.05.05-21.23.04:821][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.05.05-21.23.04:821][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:829][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:837][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:845][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:853][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:861][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:869][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:877][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:884][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:892][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:900][ 13]LogMaterial: Display: Missing cached shader map for material M_Landscape_Master, compiling. 
+[2021.05.05-21.23.04:934][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:941][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:948][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:956][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:963][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:970][ 13]LogMaterial: Display: Missing cached shader map for material M_Background_Master, compiling. 
+[2021.05.05-21.23.04:982][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:984][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:987][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:989][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:991][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:994][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:997][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.04:999][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:002][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:004][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:007][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:010][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:013][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:015][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:018][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:021][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:024][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.05:026][ 13]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.05.05-21.23.06:079][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.05-21.23.08:617][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.05.05-21.23.08:723][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.05.05-21.23.09:532][ 13]LogSlate: Window 'Save Content' being destroyed
+[2021.05.05-21.23.09:789][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Background_01_Inst2010FDAB4944F83CA68F168DB2E549F6.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_01_Inst.uasset'
+[2021.05.05-21.23.09:839][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Background_02_InstF84A89ED40AC02BCF90DA082483204D8.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_02_Inst.uasset'
+[2021.05.05-21.23.09:862][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Background_03_Inst27FFB3CE40038690C1A29197A0A0D933.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_03_Inst.uasset'
+[2021.05.05-21.23.09:880][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Background_04_InstE0877594483BD221E25F0CAC95549FB6.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_04_Inst.uasset'
+[2021.05.05-21.23.11:560][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.05.05-21.23.12:119][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.05.05-21.23.12:677][ 13]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.05.05-21.23.12:911][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Background_MasterA15792084671EC6B979E589D25BFEE18.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/CustomAssets/Background/M_Background_Master.uasset'
+[2021.05.05-21.23.12:938][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/M_Landscape_Master049B582A402F03E89D033184EB14EADE.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Material/01_Master/M_Landscape_Master.uasset'
+[2021.05.05-21.23.12:965][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/MF_Pebbles76D2884147B6A86482874AAB00D4FA49.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Material/02_Functions/MF_Pebbles.uasset'
+[2021.05.05-21.23.12:985][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/MF_Rock4C67C8EB4989DD10098B20B8F0146C1B.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Material/02_Functions/MF_Rock.uasset'
+[2021.05.05-21.23.13:000][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/MI_Landscape2C4E4EDD4B6FF1C5D1ACAAB2AFB36AF1.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Material/03_Landscape/MI_Landscape.uasset'
+[2021.05.05-21.23.13:001][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Pebbles_BC58436F5A49BDE0297DF096AFF3DFE29F.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_BC.uasset'
+[2021.05.05-21.23.13:003][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Pebbles_HROE749380C4B77D322498B24A33D97F34A.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_HRO.uasset'
+[2021.05.05-21.23.13:004][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Pebbles_N95EBA9F34A9B3AB46FFE2D9803813414.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_N.uasset'
+[2021.05.05-21.23.13:005][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Road_Extra_BCF6D1DAE548E497E6F9109488D6A095C4.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_BC.uasset'
+[2021.05.05-21.23.13:009][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Road_Extra_N25EC48A442CB0C3B6C13FE876FA7AC86.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_N.uasset'
+[2021.05.05-21.23.13:013][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Road_Extra_TRD670DE49C47BDCB1572529C92640DDE42.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_TRD.uasset'
+[2021.05.05-21.23.13:017][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Rock_BC11E3D49C425916D613E5A48307640D03.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_BC.uasset'
+[2021.05.05-21.23.13:019][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Rock_HRO59787A5A457725C98680798FA30C958D.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_HRO.uasset'
+[2021.05.05-21.23.13:021][ 13]LogSavePackage: Moving 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Saved/T_Rock_ND29CC9744BB4603C4538D3AE32FA5B15.tmp' to 'E:/School Documents - Keep/Spring 2021/Game AI/Mountains/Content/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_N.uasset'
+[2021.05.05-21.23.13:166][ 13]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialFunction /Game/AutomotiveWinterScene/Material/02_Functions/MF_Pebbles.MF_Pebbles
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialFunction /Game/AutomotiveWinterScene/Material/02_Functions/MF_Rock.MF_Rock
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating Material /Game/AutomotiveWinterScene/Material/01_Master/M_Landscape_Master.M_Landscape_Master
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AutomotiveWinterScene/Material/03_Landscape/MI_Landscape.MI_Landscape
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating Material /Game/AutomotiveWinterScene/CustomAssets/Background/M_Background_Master.M_Background_Master
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AutomotiveWinterScene/CustomAssets/Background/M_Background_01_Inst.M_Background_01_Inst
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AutomotiveWinterScene/CustomAssets/Background/M_Background_02_Inst.M_Background_02_Inst
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AutomotiveWinterScene/CustomAssets/Background/M_Background_03_Inst.M_Background_03_Inst
+[2021.05.05-21.23.13:168][ 13]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AutomotiveWinterScene/CustomAssets/Background/M_Background_04_Inst.M_Background_04_Inst
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_TRD.T_Road_Extra_TRD
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_N.T_Road_Extra_N
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_BC.T_Road_Extra_BC
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_N.T_Rock_N
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_HRO.T_Rock_HRO
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_BC.T_Rock_BC
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_N.T_Pebbles_N
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_HRO.T_Pebbles_HRO
+[2021.05.05-21.23.13:169][ 13]LogContentValidation: Display: Validating ObjectRedirector /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_BC.T_Pebbles_BC
+[2021.05.05-21.23.22:636][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.05-21.23.24:445][136]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.05-21.23.24:452][136]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_TRD.T_Road_Extra_TRD
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_N.T_Road_Extra_N
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_BC.T_Road_Extra_BC
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_N.T_Rock_N
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_HRO.T_Rock_HRO
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/RockWall/T_Rock_BC.T_Rock_BC
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_N.T_Pebbles_N
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_HRO.T_Pebbles_HRO
+	Asset Name: /Game/AutomotiveWinterScene/Megascans/Surfaces/Pebbles/T_Pebbles_BC.T_Pebbles_BC
+[2021.05.05-21.23.24:564][136]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.05-21.23.25:422][136]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.833 s
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: 
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: Cannot remove redirection from /Game/AutomotiveWinterScene/Megascans/Surfaces/SnowRoad/T_Road_Extra_TRD.T_Road_Extra_TRD, it was not registered
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: Stack: 
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8be706988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8be2d8a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8ca4a4b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a2baf0cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a2bba5e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a23140d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a25efbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a25e70b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c730859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c732071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71646be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71e7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71d0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71c3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60bbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60be389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff917bee858 USER32.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff917bee299 USER32.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60bf7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71f2233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c718d485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a267c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8a2bae2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff883eb6bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8662370e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8662372ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff866227a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff88d260083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff88d259532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff88d2d80e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff88d25cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c730859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c732071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71646be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71e7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71d0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8c71c3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60bbcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60a9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60be389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60a4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff917bee858 USER32.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff917bee299 USER32.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff8d60bf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff63fff8848 UE4Editor.exe!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff64001117c UE4Editor.exe!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff64001125a UE4Editor.exe!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff6400252bd UE4Editor.exe!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff640027fea UE4Editor.exe!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff917ad7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: [Callstack] 0x00007ff918462651 ntdll.dll!UnknownFunction []
+[2021.05.05-21.23.25:423][136]LogOutputDevice: Error: 
